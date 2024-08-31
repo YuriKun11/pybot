@@ -1,7 +1,4 @@
 # PYTHON BOT
-
-## Features
-
 - Drop anime sauce
 - Restricted access to owner
 
