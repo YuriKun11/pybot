@@ -2,6 +2,8 @@
 - Drop anime sauce
 - Restricted access to owner
 
+![image](https://github.com/user-attachments/assets/f07c1f36-2150-4716-8086-6a8c66f9bd78)
+
 ## Commands
 
 - `$help`
@@ -17,3 +19,5 @@
 
 ## ISSUE
 - The bot will sleep =)
+
+
