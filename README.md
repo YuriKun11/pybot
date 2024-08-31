@@ -16,3 +16,6 @@
 2. Paste your discord_id
 3. Paste your discord app token
 4. Run
+
+## ISSUE
+- The bot will sleep =)
