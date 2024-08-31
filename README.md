@@ -1,4 +1,4 @@
-# HYUN'S PYTHON BOT
+#PYTHON BOT
 
 Discord bot built using Python to fetch Anime 
 
