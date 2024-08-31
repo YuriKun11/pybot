@@ -11,10 +11,9 @@
 1. Copy codes
 2. Paste your discord_id
 3. Paste your discord app token
-4. Run
-
 1. `py -3 -m pip install -U discord.py`
 2. `py -3 -m pip install flask`
+3. run
 
 ## ISSUE
 - The bot will sleep =)
