@@ -10,8 +10,8 @@ Discord bot built using Python to fetch Anime
 
 ## Commands
 
-- `$help`: Displays the list of available commands.
-- `$anime [name]`: Fetches anime information from the Jikan API.
+- `$help`
+- `$anime [name]`
 
 ## Create your own bot!
 
