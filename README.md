@@ -1,4 +1,4 @@
-# PYTHON BOT
+# Anime Sauce Bot
 - Drop anime sauce
 - Restricted access to owner
 
